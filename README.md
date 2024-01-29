@@ -22,12 +22,15 @@
 
 ### Tecnologias que estou me aprofundando:
 <div style="display: inline_block"align="center"><br>
+  <img alt="Docker" height="30" width="fit-content" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Postgres" height="30" width="fit-content" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Yaml" height="30" width="fit-content" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
   <img alt="Angular" height="30" width="fit-content" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="GraphQL" height="30" width="fit-content" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img alt="Insomnia" height="30" width="fit-content" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+  <img alt="JWT" height="30" width="fit-content" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img alt="C#" height="30" width="fit-content" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt=".NET" height="30" width="fit-content" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img alt="Android-Studio" height="30" width="fit-content" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img alt="Kotlin" height="30" width="fit-content" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img alt="React" height="30" width="fit-content" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TS" height="30" width="fit-content" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
@@ -35,9 +38,19 @@
 <br>
 <br>
 </div>
-<div >
-  <img height="fit-content" width="fit-content" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorGabriel-TI&theme=dark">
-  <img height="fit-content" width="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-TI&layout=donut-vertical&theme=dark">
+<div align="center">
+  <!-- Grade superior -->
+  <div>
+    <img height="fit-content" width="fit-content" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorGabriel-TI&theme=dark">
+  </div>
+
+  <!-- Grade inferior -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-TI&layout=donut-vertical&theme=dark">
+    <a href="https://https://github.com/VitorGabriel-TI/ProjetoFullStackSB-Backend">
+      <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorGabriel-TI&repo=ProjetoFullStackSB-Backend&theme=dark"/>
+    </a> 
+  </div>
 </div>
 
 
