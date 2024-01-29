@@ -47,7 +47,7 @@
   <!-- Grade inferior -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-TI&layout=donut-vertical&theme=dark">
-    <a href="https://https://github.com/VitorGabriel-TI/ProjetoFullStackSB-Backend">
+    <a href="https://github.com/VitorGabriel-TI/ProjetoFullStackSB-Backend">
       <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorGabriel-TI&repo=ProjetoFullStackSB-Backend&theme=dark"/>
     </a> 
   </div>
